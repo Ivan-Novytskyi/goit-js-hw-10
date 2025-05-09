@@ -16,3 +16,11 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+/* timer */
+
+@import url('./timer.css');
+
+/* snackbar */
+
+@import url('./snackbar.css');
